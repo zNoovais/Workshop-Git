@@ -1,3 +1,3 @@
 # Workshop-Git
 Repositório para o workshop de git
-NO dia 3 de Abril
+no dia 3/4/2024
