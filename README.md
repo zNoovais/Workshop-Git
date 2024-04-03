@@ -1,24 +1,4 @@
 # Workshop-Git
-Repositório para o workshop de Git/Github!
-
-apresentado no dia 03/04/2023 dado inicio as 14:00.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 typedef enum movimento {Norte, Oeste, Sul, Este} Movimento;
 
@@ -56,22 +36,5 @@ Posicao caminho(Posicao inicial, Movimento mov[], int N)
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Repositório para o workshop de git
+No dia 3 de Abril
